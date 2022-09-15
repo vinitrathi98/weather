@@ -90,7 +90,7 @@ Once above cmd is run, jacoco code coverage report would be available on the tar
 	Then go to the folder /target/site/apidocs
 
 ## Things to be included in future version :
-1. Enabling Nexus for this api to code coverage, vulnerability and code smells.
+1. Enabling Sonarqube for this api to code coverage, vulnerability and code smells.
 2. If we want to move to microservioces architecture then probably we can look for Netflix OSS
     (apigateway , service descovery , cloud config etc.)
 3. Current version doen't support maven/spring profiles , which needs to be implemented.
